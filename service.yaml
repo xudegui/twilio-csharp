@@ -1,0 +1,13 @@
+apiVersion: serving.knative.dev/v1alpha1
+kind: Service
+metadata:
+  name: twilio-csharp
+  namespace: default
+spec:
+  runLatest:
+    configuration:
+      revisionTemplate:
+        spec:
+          container:
+            # Replace {username} with your actual DockerHub
+            image: gcr.io/pde-dxu/twilio-csharp:v1

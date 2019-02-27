@@ -1,0 +1,14 @@
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/bin/Debug/netcoreapp2.1/twilio-csharp.deps.json
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/bin/Debug/netcoreapp2.1/twilio-csharp.runtimeconfig.json
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/bin/Debug/netcoreapp2.1/twilio-csharp.runtimeconfig.dev.json
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/bin/Debug/netcoreapp2.1/twilio-csharp.dll
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/bin/Debug/netcoreapp2.1/twilio-csharp.pdb
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/obj/Debug/netcoreapp2.1/twilio-csharp.csprojAssemblyReference.cache
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/obj/Debug/netcoreapp2.1/twilio-csharp.csproj.CoreCompileInputs.cache
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/obj/Debug/netcoreapp2.1/twilio-csharp.RazorAssemblyInfo.cache
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/obj/Debug/netcoreapp2.1/twilio-csharp.RazorAssemblyInfo.cs
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/obj/Debug/netcoreapp2.1/twilio-csharp.AssemblyInfoInputs.cache
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/obj/Debug/netcoreapp2.1/twilio-csharp.AssemblyInfo.cs
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/obj/Debug/netcoreapp2.1/twilio-csharp.RazorTargetAssemblyInfo.cache
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/obj/Debug/netcoreapp2.1/twilio-csharp.dll
+/Users/xud11/Pivotal/Demos/pfs-twilio/twilio-csharp/obj/Debug/netcoreapp2.1/twilio-csharp.pdb
